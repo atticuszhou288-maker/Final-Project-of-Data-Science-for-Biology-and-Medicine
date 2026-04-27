@@ -4,28 +4,11 @@ This is a collection of codes and results of a final project for BIEN3320 in HKU
 
 **Course:** BIEN 3320 Data-Science-for-Biology-and-Medicine 
 **Author:** Atticus Zhou
-**Repository:** 
+**Repository:** https://github.com/atticuszhou288-maker/Final-Project-of-Data-Science-for-Biology-and-Medicine.git
 
 ## Overview
 
 This repository contains the figure outputs and analysis code for an integrative immune microenvironment analysis of germ cell tumors (GCT), combining bulk RNA-seq and 10x Visium HD spatial transcriptomics. The study characterizes immune heterogeneity across GCT histological subtypes and identifies spatial immune niches using independent molecular scoring methods.
-
-## Repository Structure
-├── README.md # This file
-├── LICENSE # MIT License
-├── Bulk-RNA-seq_Immune_Analysis.R # Bulk RNA-seq analysis (ESTIMATE, ssGSEA)
-├── Spatial_Analysis.ipynb # Spatial transcriptomics analysis (Colab)
-├── Results/
-│ ├── Bulk_Immune_Heatmap.jpg # ssGSEA immune cell enrichment heatmap (bulk)
-│ ├── ESTIMATE_Immune_by_GCT.jpg # ESTIMATE Immune Score by histological subtype
-│ ├── ESTIMATE_Immune_by_Position.jpg # ESTIMATE Immune Score by lesion site
-│ ├── UMAP_Visualization.png # UMAP colored by spatial domain
-│ ├── SD_Immune_cluster_composition.png # Stacked bar: immune cluster proportions per domain
-│ ├── Immune_Cell_UMAP.png # UMAP 4-panel: TLS_fibroblast, CD8_T, B, Macrophage
-│ ├── Immune_heatmap_UMAP.png # UMAP colored by continuous composite immune score
-│ ├── SD_Immune_Celltype_Score.png # Mean immune cell scores per spatial domain (with Kruskal-Wallis)
-│ └── Immune_Enrichment_TLS.png # Immune signature enrichment in SD-TLS region
-
 
 ## Datasets
 
