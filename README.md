@@ -17,7 +17,7 @@ This repository contains the figure outputs and analysis code for an integrative
 
 ## Data Availability
 
-**These datasets are proprietary and not yet published.** The `Data.zip` file has been removed from this public repository to protect unpublished data. If you are interested in accessing the data, please contact the course instructor or the data owner directly.
+**These datasets are proprietary and not yet published.** If you are interested in accessing the data, please contact the course instructor or the data owner directly.
 
 ## Methods
 
